@@ -1,0 +1,5 @@
+﻿<meta>
+	<info author="BlackLine" type="script" version="1.0" description="Teleport system" />
+	
+	<script src="teleport_client.lua" type="client"/>
+</meta>
